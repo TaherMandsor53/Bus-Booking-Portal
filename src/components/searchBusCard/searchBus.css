@@ -1,0 +1,32 @@
+.ui.card {
+    border: 2px solid #d2d2d2;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 25px !important;
+    margin-bottom: 30px !important;
+    height: 160px;
+    display: inline-block;
+    width: 240px;
+}
+
+.description {
+    font-size: 23px;
+    padding-top: 23px;
+    color: black !important;
+    font-weight: bold;
+}
+
+.card-content {
+    padding: 10px !important;
+}
+
+.ui.card:hover {
+    border: 1px solid #d2d2d2 !important;
+}
+
+.discount-text {
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+    color: red;
+}

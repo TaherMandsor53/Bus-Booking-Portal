@@ -1,0 +1,64 @@
+.login-header {
+    font-size: 1.71428571rem;
+    color: #4183c4;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.login-icon {
+    margin-bottom: 14px !important;
+    font-size: 30px !important;
+}
+
+.login-form {
+    margin-bottom: 30px;
+}
+
+.login-button {
+    margin-left: 0px !important;
+    background-color: #4183c4 !important;
+    padding-top: 7px !important;
+    font-size: 17px !important;
+}
+
+.login-input {
+    border: 1px solid #d2d2d2;
+}
+
+.login-input:focus {
+    outline: none !important;
+}
+
+.login-box {
+    border: 2px solid #d2d2d2 !important;
+}
+
+.login-message {
+    margin-bottom: 30px !important;
+    border: 2px solid #d2d2d2;
+    font-size: 15px !important;
+    padding: 5px !important;
+}
+
+.login-signup-label {
+    font-size: 15px !important;
+    color: black !important;
+    padding-left: 2px !important;
+}
+
+.register-table {
+    border: 2px solid #d2d2d2 !important;
+    margin: 30px !important;
+    width: auto !important;
+}
+
+.register-modal-content {
+    margin-top: 0px !important;
+}
+
+.registered-modal {
+    background-color: green !important;
+    color: #fff !important;
+    margin-bottom: 20px !important;
+    float: right !important;
+}

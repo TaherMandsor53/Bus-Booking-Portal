@@ -1,0 +1,14 @@
+.slider-wrapper.axis-horizontal {
+    height: 600px;
+}
+
+
+.dot {
+    width: 13px !important;
+    height: 13px !important;
+    background: black !important;
+}
+
+.thumbs-wrapper.axis-vertical {
+    text-align: center;
+}

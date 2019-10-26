@@ -1,0 +1,142 @@
+.ui.search.dropdown {
+    border: 2px solid #d2d2d2;
+}
+
+.item {
+    border: 1px solid #d2d2d2 !important;
+}
+
+.ui.selection.active.dropdown {
+    border-color: #d2d2d2;
+}
+
+.ui.selection.active.dropdown:hover {
+    border-color: #d2d2d2;
+}
+
+.ui.selection.dropdown:hover {
+    border-color: #d2d2d2;
+}
+
+.ui.search.dropdown>.text {
+    color: black !important;
+    font-weight: bold;
+}
+
+.source-city {
+    margin-left: 10px;
+    height: 38px;
+    margin-bottom: 15px;
+}
+
+.destination-city {
+    margin-left: 40px;
+    height: 38px;
+}
+
+.react-datepicker__input-container {
+    border: 2px solid #d2d2d2;
+    height: 38px;
+    border-radius: 3px;
+    width: 196px;
+    margin-left: 40px;
+    padding-top: 8px;
+}
+
+.react-datepicker__input-container:focus {
+    outline: none;
+}
+
+input.react-datepicker-ignore-onclickoutside {
+    outline: none;
+    outline-offset: unset;
+    border: none !important;
+}
+
+input {
+    border: none;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+.react-datepicker {
+    margin-left: 25px;
+}
+
+.ui.button {
+    border: 2px solid #d2d2d2;
+    margin-left: 40px;
+    color: #fff;
+    background-color: #4183c4;
+    font-weight: bold;
+    height: 38px;
+}
+
+.ui.button:hover {
+    background-color: #4183c4;
+    color: #fff;
+}
+
+.ui.button:focus {
+    background-color: #4183c4;
+    color: #fff;
+}
+
+.boarding-point {
+    margin-left: 200px;
+    height: 38px;
+}
+
+.drop-point {
+    margin-left: 40px;
+    height: 38px;
+}
+
+i.large.icon {
+    line-height: unset;
+    font-size: 18px;
+}
+
+.ui.modal>.close {
+    top: 1px;
+    right: 1px;
+    font-size: 20px;
+    color: black;
+}
+
+.ui.modal>.content {
+    margin-top: 30px;
+}
+
+@media only screen and (min-width: 1200px) {
+    .ui.modal {
+        width: 1189px;
+    }
+}
+
+.bus-details-grid {
+    width: 95% !important;
+    margin: 20px 32px 20px 32px !important;
+    border: 1px solid #d2d2d2 !important;
+    font-size: 15px;
+}
+
+.ui.grid>.row>.column:first-child {
+    width: 220px;
+    border: 1px solid #d2d2d2 !important;
+}
+
+.ui.grid>.row>.column {
+    width: 129.6px;
+    border: 1px solid #d2d2d2 !important;
+}
+
+.bus-details-btn {
+    margin-left: 10px !important;
+    color: #fff !important;
+    font-weight: bold !important;
+    background-color: #4183c4 !important;
+    font-size: 16px;
+    padding-top: 10px !important;
+}

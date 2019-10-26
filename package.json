@@ -1,0 +1,37 @@
+{
+  "name": "bus-booking-system",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "moment": "^2.24.0",
+    "react": "^16.8.6",
+    "react-datepicker": "^2.4.0",
+    "react-dom": "^16.8.6",
+    "react-moment": "^0.9.2",
+    "react-redux": "^7.0.2",
+    "react-responsive-carousel": "^3.1.47",
+    "react-scripts": "2.1.8",
+    "redux": "^4.0.1",
+    "redux-saga": "^1.0.2",
+    "semantic-ui-carousel-react": "^1.0.3",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.86.0",
+    "underscore": "^1.9.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
